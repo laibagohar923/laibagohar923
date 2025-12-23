@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">I am a front-end developer</h3>
 <img align="right" alt="coding" width="300" 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laibagohar923&label=Profile%20views&color=0e75b6&style=flat" alt="laibagohar923" /> </p>
 
 - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer (GenEng)**
 
