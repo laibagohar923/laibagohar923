@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Laiba gohar</h1>
 <h3 align="center">I am a front-end developer</h3>
-<img align="right" alt="coding" width="300" 
-
 
 - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer (GenEng)**
 
